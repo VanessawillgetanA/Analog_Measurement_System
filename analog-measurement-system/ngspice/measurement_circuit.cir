@@ -1,0 +1,11 @@
+* Analog Measurement System
+* Initial analog measurement circuit
+
+Vsignal in 0 SIN(0 0.01 1000)
+Rload in out 1k
+Cfilter out 0 100n
+
+.tran 1u 5m
+.print tran V(in) V(out)
+
+.end

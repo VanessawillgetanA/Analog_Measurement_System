@@ -1,0 +1,18 @@
+CUDA Analog Measurement Analysis
+================================
+Samples: 5008
+
+Mean Vin: 0.00000001 V
+Mean Vout: 0.00008925 V
+
+RMS Vin: 0.00706542 V
+RMS Vout: 0.00599969 V
+
+RMS Gain: 0.849163
+RMS Gain: -1.42 dB
+
+Vin Peak-to-Peak: 0.01999997 V
+Vout Peak-to-Peak: 0.01708964 V
+
+Vin Peak: 0.00999998 V
+Vout Peak: 0.00862232 V
